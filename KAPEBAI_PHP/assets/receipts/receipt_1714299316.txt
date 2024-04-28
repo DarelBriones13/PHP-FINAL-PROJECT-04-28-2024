@@ -1,0 +1,15 @@
+
+            Receipt
+
+
+            Customer Name: Pent
+
+            Total Amount: ₱1,875.00
+
+            Tendered: ₱2,000.00
+
+            Change: ₱125.00
+
+            Payment Type: Cash
+
+        

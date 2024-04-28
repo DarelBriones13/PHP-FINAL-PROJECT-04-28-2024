@@ -1,0 +1,15 @@
+
+            Receipt
+
+
+            Customer Name: dDada
+
+            Total Amount: ₱200.00
+
+            Tendered: ₱500.00
+
+            Change: ₱300.00
+
+            Payment Type: Cash
+
+        

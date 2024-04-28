@@ -1,0 +1,15 @@
+
+            Receipt
+
+
+            Customer Name: Danica
+
+            Total Amount: ₱100.00
+
+            Tendered: ₱500.00
+
+            Change: ₱400.00
+
+            Payment Type: Cash
+
+        
